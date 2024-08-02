@@ -15,13 +15,6 @@ https://weechat.org/files/releasenotes/ReleaseNotes-devel.html[release notes]
 (file _ReleaseNotes.adoc_ in sources).
 
 
-[[v1.9.1]]
-== Version 1.9.1 (under dev)
-
-Bug fixes::
-
-  * logger: call strftime before replacing buffer local variables
-
 [[v1.9]]
 == Version 1.9 (under dev)
 
